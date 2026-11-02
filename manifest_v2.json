@@ -1,0 +1,36 @@
+{
+  "item": {
+    "id": "979891694972",
+    "restype": "watchface",
+    "name": "红黄蓝的构成",
+    "description": "把三原色，留给时间。\n灵感来自蒙德里安的色彩与几何构成。红、黄、蓝三块纯色落在大片留白中，黑色指针与细长的红色秒针穿行其间，把腕上的时间变成一幅不断变化的小画。\n「暖白」温和明亮，「纯黑」沉静鲜明，两种样式可在表盘设置中手动切换。息屏时，只留下黑色之上的纯白双针。",
+    "preview": [
+      "media/preview-01-day.jpg",
+      "media/preview-02-night.jpg",
+      "media/preview-03-aod.jpg"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.jpg",
+    "author": [
+      {
+        "name": "yeeti1",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/红黄蓝的构成-小米手环9Pro-v5.bin",
+      "versionCode": 65536,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "首次发布。\n提供「暖白」「纯黑」两种可手动切换的样式，并配有共用息屏显示。"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
